@@ -20,9 +20,9 @@ vercel
 
 ## ⚠️ Before deploying: update your credentials in index.js
 ```js
-const USER_ID = 'namankumar_25012006';
-const EMAIL_ID = 'naman0664.be23@chitkara.edu.in';
-const ROLL_NUMBER = '2310990664';
+const USER_ID = 'yourname_ddmmyy';
+const EMAIL_ID = 'name@collegeid';
+const ROLL_NUMBER = 'rollno';
 ```
 
 ## API
